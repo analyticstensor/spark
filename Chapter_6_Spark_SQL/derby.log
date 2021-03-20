@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 01 07:33:23 NPT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-1bfc-85fd-00001de02fa0 
+on database directory /Users/kcmahesh/company/training/Spark/Chapter_6_Spark_SQL/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@314ef09b 
+Loaded from file:/usr/local/apache-spark/spark-3.0.0/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=/Users/kcmahesh/company/training/Spark/Chapter_6_Spark_SQL
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
